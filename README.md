@@ -190,7 +190,7 @@ SUM(horas_economizadas) / SUM(horas_totais)
 
 ---
 
-## 📸 Imagem
+## 📸 Imagens
 
 ### **Imagem 1 — Visão Geral do Dashboard**
 
