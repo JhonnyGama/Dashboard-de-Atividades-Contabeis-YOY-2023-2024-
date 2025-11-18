@@ -190,9 +190,7 @@ SUM(horas_economizadas) / SUM(horas_totais)
 
 ---
 
-## 📸 Campos para Inserção de Imagens
-
-A seguir estão seções preparadas para você inserir imagens do dashboard, do Looker Studio e do Google Sheets:
+## 📸 Imagem
 
 ### **Imagem 1 — Visão Geral do Dashboard**
 
