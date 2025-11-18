@@ -6,6 +6,9 @@ Este projeto tem como objetivo criar um dashboard analítico no **Looker Studio*
 
 Os dados são **artificiais**, gerados via Python, exportados em CSV, armazenados no **Google Sheets** e conectados ao Looker Studio para visualização.
 
+* **Dashboard (Looker Studio):** [Looker Studio](https://lookerstudio.google.com/reporting/6f13e190-cc9b-44b3-8044-c603cfb119cc)
+* **Planilha intermediária (Google Sheets):** [Google Sheets](https://docs.google.com/spreadsheets/d/1jgw7ri9L8XyLrVRAeubjP291Y0Hq-hTIa-NzjGdoTFI/edit?usp=sharing)
+
 ---
 
 ## 📌 2. Arquitetura da Solução
@@ -183,14 +186,7 @@ SUM(horas_economizadas) / SUM(horas_totais)
 
 ---
 
-## 📌 10. Links Importantes
-
-* **Dashboard (Looker Studio):** [Looker Studio](https://lookerstudio.google.com/reporting/6f13e190-cc9b-44b3-8044-c603cfb119cc)
-* **Planilha intermediária (Google Sheets):** [Google Sheets](https://docs.google.com/spreadsheets/d/1jgw7ri9L8XyLrVRAeubjP291Y0Hq-hTIa-NzjGdoTFI/edit?usp=sharing)
-
----
-
-## 📸 Imagens
+## 📌 10. 📸 Imagens
 
 ### **Imagem 1 — Visão Geral do Dashboard**
 
