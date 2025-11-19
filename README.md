@@ -14,8 +14,7 @@ Os dados são **artificiais**, gerados via Python, exportados em CSV, armazenado
 ## 📌 2. Arquitetura da Solução
 
 
-<img width="344" height="373" alt="Arquitetura" src="https://github.com/user-attachments/assets/1826ea36-388f-4581-8ec5-9bdaf1098cd9"/>
-
+<img width="500" height="600" alt="estrutura" src="https://github.com/user-attachments/assets/40f6fea5-ba0d-4e52-aa3c-7c209ffa4f33" />
 
 
 ---
